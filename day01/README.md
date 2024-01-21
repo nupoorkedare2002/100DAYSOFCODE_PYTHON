@@ -7,4 +7,5 @@
 - Python Variables
 - Variable Naming
 ## Band Name Generator
-
+<em>  I have created The band name genrator giving my own creation  read my whole blog 
+https://nupoor08.hashnode.dev/crafting-anime-fan-names-in-python </em>
