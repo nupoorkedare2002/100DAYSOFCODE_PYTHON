@@ -1,5 +1,8 @@
 # 100DAYS-OF-CODE- Complete-PYTHON-Bootcamp
-
+<em> Welcome to the 100 Days of Code Pro Python Bootcamp repository! 
+This repository is dedicated to tracking my progress through the 100 Days of Code challenge, 
+focusing on the Python programming language. 
+The challenge is inspired by the popular Udemy course by Angela Yu.</em>
 
 <h1>🦾Technologies and tools </h1>
 
