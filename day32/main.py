@@ -3,7 +3,7 @@ import pandas
 import random
 import smtplib
 
-MY_EMAIL = "phillipaipython@outlook.com"
+MY_EMAIL = "knupoor08@gmail.com"
 MY_PASSWORD = "password"
 
 random_num = random.randint(1, 3)
