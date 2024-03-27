@@ -1,4 +1,4 @@
-# Day 35 - Keys, Authentication & Environment Variables - Telegram Rain Notifier
+# Day 35 - Telegram Rain Notifier
 ## Concepts Practised
 - Using API Keys to Authenticate and Get the Weather from OpenWeatherMap
 - Sending Alerts via the Telegram
