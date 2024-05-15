@@ -1,0 +1,28 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+
+body{
+    background-color:blanchedalmond;
+}
+
+
+
+h1,h2{
+    text-align: center;
+}
+.container {
+    padding: 10px; /* Adjust padding as needed */
+}
+
+#my-img {
+    align-items: center;
+    display: block;
+    padding: auto;
+    margin: auto;
+    width: 20%;
+    border: 5px solid black;
+}
