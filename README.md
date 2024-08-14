@@ -3,6 +3,8 @@
 Welcome to the journey of mastering Python with the **100 Days of Code: The Complete Python Pro Bootcamp for 2023** course on Udemy! This repository is your companion throughout the course, containing all the code, projects, and exercises you'll complete over the next 100 days.
 
 ![image](https://github.com/nupoorkedare2002/100DAYSOFCODE_PYTHON/assets/143624372/f35e3c46-cd60-4c01-97f9-bf6d09a8c4f4)
+![image](https://github.com/user-attachments/assets/0c7207ec-8b88-44a9-b46a-259525a1f325)
+
 
 ## About the Course
 
